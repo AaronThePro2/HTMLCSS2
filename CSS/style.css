@@ -5,12 +5,12 @@
 
 body {
     font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-    background: grey url('https://lh4.googleusercontent.com/i1q14JtbuaQBfdlbc9N6lnmRZcHWkOXbrcxiZDt5j73pPTEC4AEVoCuIsh3Lp0F2TQ43K1Wy03cNu8QPHM-G1G0t7fwABKNhS2t3JGBDeJWzuZgK_etIFq-6po70slPr8OIzPRWL') repeat;
+    background: grey url('achtergrond.jpg') repeat;
 }
 
 header {
-    background: url('https://lh6.googleusercontent.com/P3BUjXBTHdQAt53HYIq8rAKpSK75JgQ_KhdvmryEF-ojvymV7YSQmpsIZKPu7Y8MWnvDkfgbG4jBrP_zLb4z1ohosPiOSFr7lLXeFTz4b3Ym_-TjGao8tVyrJ1ZAvu4vrMpsoydU');
-    width: 960px;
+    background: url('headerafbeelding.jpg');
+    width: 555px;
     height: 150px;
 }
 
