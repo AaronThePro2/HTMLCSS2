@@ -5,13 +5,10 @@
 
 body {
     font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-    background: grey url('achtergrond.jpg') repeat;
 }
 
 header {
-    background: url('headerafbeelding.jpg');
-    width: 555px;
-    height: 150px;
+    
 }
 
 ul {
